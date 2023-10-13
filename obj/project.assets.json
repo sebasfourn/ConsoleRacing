@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/root/code/sebasfourn/ConsoleCalendar/ConsoleCalendar.csproj",
+      "projectUniqueName": "/root/code/sebasfourn/ConsoleRacing/ConsoleCalendar.csproj",
       "projectName": "ConsoleCalendar",
-      "projectPath": "/root/code/sebasfourn/ConsoleCalendar/ConsoleCalendar.csproj",
+      "projectPath": "/root/code/sebasfourn/ConsoleRacing/ConsoleCalendar.csproj",
       "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/root/code/sebasfourn/ConsoleCalendar/obj/",
+      "outputPath": "/root/code/sebasfourn/ConsoleRacing/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/root/.nuget/NuGet/NuGet.Config"
