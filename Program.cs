@@ -46,8 +46,6 @@ do
             switch (userChoice)
             {
               case 1:
-                // race.Drivers.Any() ? PrintDrivers(race) : PrintNoDrivers();
-
                 if (race.Drivers.Any())
                 {
                   PrintDrivers(race);
