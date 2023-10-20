@@ -31,7 +31,10 @@ public class Race
     Drivers.Remove(driver);
     Console.WriteLine($"{driver.Name} was successfully removed from the race!");
 
-    DequeueWaitingList();
+    if (Drivers.Any())
+    {
+      DequeueWaitingList();
+    }
   }
   public void DequeueWaitingList()
   {
